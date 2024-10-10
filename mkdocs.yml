@@ -1,0 +1,11 @@
+site_name: some-test
+site_description: 'User documentation for Test'
+
+plugins:
+  - techdocs-core
+
+# Note for content editors, edit only the section below
+nav:
+  - Onboard: index.md
+  - Test:
+      - Migration Process Overview: test/test.md
